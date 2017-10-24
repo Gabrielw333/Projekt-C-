@@ -1,6 +1,8 @@
 # Projekt-C-++
 
  Moim projektem będzie stworzenie gry. Będzie to gra RPG w 2D z możliwymi elementami 2D/3D  np. walką. Akcja będzie toczyła się w  realiach „Dark fantasty”. Ważnym elementem gry będzie rozwój postaci który będzie czymś więcej niż przydzielanie punktów do umiejętność.
+
+
 Rozgrywka będzie podzielona na dwa zasadnicze elementy eksploracje i walkę.
 
 # Walka 
